@@ -18,6 +18,8 @@ public class MaloTache {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Mi proyecto que no es spring =(");
+        
+        System.out.println("Por fin lo guardo!");
     }
     
 }
